@@ -267,3 +267,26 @@ def test_cli_offline(tmp_path):
     assert set(dati) >= {"input", "azienda", "pagine_lette", "avvisi", "campi_vuoti"}
     assert set(dati["azienda"]["partita_iva"]) == {"valore", "fonte", "metodo", "confidenza"}
     assert (out / "RAPPORTO.md").read_text("utf-8").startswith("# Onboarding")
+
+
+def test_robots_rispettato():
+    from onboarding.fetch import Risposta, crawl
+
+    class Finto:
+        def __init__(self, robots):
+            self.robots, self.chieste = robots, []
+
+        def get(self, url):
+            self.chieste.append(url)
+            if url.endswith("/robots.txt"):
+                return self.robots
+            return Risposta(url, 200, "<html><body><a href='/contatti/'>c</a></body></html>", "text/html")
+
+    f = Finto(Risposta("https://www.x.it/robots.txt", 200, "User-agent: *\nDisallow: /", "text/plain"))
+    avvisi = []
+    assert crawl("https://www.x.it", f, "fabbro", avvisi) == [] and f.chieste == ["https://www.x.it/robots.txt"]
+    f = Finto(None)
+    assert crawl("https://www.x.it", f, "fabbro", avvisi) == [] and f.chieste == ["https://www.x.it/robots.txt"]
+    f = Finto(Risposta("https://www.x.it/robots.txt", 200, "User-agent: *\nDisallow: /contatti/", "text/plain"))
+    pagine = crawl("https://www.x.it", f, "fabbro", avvisi)
+    assert [p.url for p in pagine] == ["https://www.x.it"] and "https://www.x.it/contatti/" not in f.chieste

@@ -299,12 +299,11 @@ class _Robots:
         url = urljoin(base, "/robots.txt")
         r = fetcher.get(url)
         if r is None or r.stato >= 500:
-            # Non leggibile per errore del server: prudenza, leggiamo solo la home.
+            # Errore di rete o del server su robots.txt: per prudenza non si legge nulla.
             self.rp.parse(["User-agent: *", "Disallow: /"])
-            avvisi.append("robots.txt non raggiungibile: letta solo la pagina iniziale")
-            self.solo_home = True
+            self.irraggiungibile = True
             return
-        self.solo_home = False
+        self.irraggiungibile = False
         righe = r.testo.splitlines() if r.stato == 200 else []
         self.rp.parse(righe)
         for riga in righe:
@@ -347,6 +346,9 @@ def crawl(sito: str, fetcher: Fetcher, mestiere: str, avvisi: list[str],
           max_pagine: int = MAX_PAGINE) -> list[Pagina]:
     sito = normalizza_sito(sito)
     robots = _Robots(fetcher, sito, avvisi)
+    if robots.irraggiungibile:
+        avvisi.append("robots.txt non raggiungibile (errore di rete o del server): per prudenza nessuna pagina letta")
+        return []
     if not robots.consentito(sito):
         avvisi.append("robots.txt vieta la lettura del sito: nessuna pagina letta")
         return []
@@ -358,8 +360,6 @@ def crawl(sito: str, fetcher: Fetcher, mestiere: str, avvisi: list[str],
     home = crea_pagina(base, r.stato, r.testo)
     home.tipo = "home"
     pagine = [home]
-    if robots.solo_home:
-        return pagine
 
     candidati: dict[str, str] = {}
     sitemap_urls = robots.sitemaps or [urljoin(base, "/sitemap.xml")]

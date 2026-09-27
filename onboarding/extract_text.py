@@ -398,7 +398,7 @@ def estrai_urgenza(p: Pagina) -> tuple[list[Candidato], bool]:
 
 LESSICO = {
     "fabbro": [
-        r"apertur", r"serratur", r"cilindr", r"blindat", r"\bport[ae]\b", r"portoncin", r"porton",
+        r"apertur", r"serratur", r"cilindr", r"blindat", r"\bporte\b", r"portoncin", r"porton",
         r"cancell", r"inferriat", r"\bgrat[ae]\b", r"serrand", r"basculant", r"ringhier", r"recinzion",
         r"tapparell", r"avvolgibil", r"cassafort", r"casseforti", r"chiav", r"\bscal[ae]\b", r"soppalc",
         r"pensilin", r"tettoi", r"carpenteri", r"saldatur", r"zanzarier", r"persian", r"infiss",
@@ -459,7 +459,7 @@ def estrai_servizi(p: Pagina, mestiere: str) -> list[Candidato]:
         testo = _pulisci_voce(testo_grezzo).rstrip(".;,")
         if not testo or len(testo) < 4 or len(testo.split()) > 6 or _SCARTA_SERVIZIO.search(testo):
             continue
-        if _INIZIO_NON_SERVIZIO.search(testo) or re.search(r"\b(autorizzat|certificat|garantit|gratuit|dal \d)", testo, re.I):
+        if _INIZIO_NON_SERVIZIO.search(testo) or re.search(r"\b(autorizzat|certificat|garantit|gratuit|dal \d|foto|immagin)", testo, re.I):
             continue
         if re.match(rf"^{re.escape(mestiere)}i?\b", testo, re.I):
             continue  # "Fabbro Monza": è una zona, non un servizio
@@ -474,7 +474,7 @@ def estrai_servizi(p: Pagina, mestiere: str) -> list[Candidato]:
                for a in [el, *antenati] if hasattr(a, "get")):
             continue
         if el.name in TAG_CARD:
-            if el.find(_BLOCCHI) or any(a.name in TAG_SERVIZIO or a.name in ("footer", "form", "button", "label")
+            if el.find(_BLOCCHI) or any(a.name in TAG_SERVIZIO or a.name in ("footer", "form", "button", "label", "figure", "figcaption")
                                         for a in list(el.parents)):
                 continue
             # La voce deve essere l'intero blocco, non una parola evidenziata dentro un paragrafo.
