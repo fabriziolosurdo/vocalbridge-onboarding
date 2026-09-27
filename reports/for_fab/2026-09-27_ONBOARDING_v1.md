@@ -16,7 +16,7 @@
 
 ## Sesto sito, mai visto prima: artefermilano.com (eseguito online)
 
-Ragione sociale, P.IVA, fisso e cellulare, due email, indirizzo (Via Semplicità 4, 20161 Milano), orari (lun–ven 8–12 e 13–17:30, sabato e domenica chiuso), 26 servizi e 2 social. Ho confrontato ogni dato con le pagine: tutto corrisponde, e un controllo automatico ha ritrovato alla lettera sul sito tutte le 36 frasi citate come fonte. Zone servite e urgenze restano vuote perché il sito non le indica. Prima di consegnare ho tolto dai servizi due didascalie di foto ("Cilindro europeo (foto dal web)", "Porta materassi").
+Ragione sociale, P.IVA, fisso e cellulare, due email, indirizzo (Via Semplicità 4, 20161 Milano), orari (lun–ven 8–12 e 13–17:30, sabato e domenica chiuso), 26 servizi e 2 social. Ho confrontato ogni dato con le pagine: tutto corrisponde, e un controllo automatico ha ritrovato alla lettera sul sito tutte le 36 frasi citate come fonte. Zone servite e urgenze restano vuote perché il sito non le indica. Prima di consegnare ho tolto dai servizi una didascalia di foto ("Cilindro europeo (foto dal web)") e un prodotto non pertinente ("Porta materassi").
 
 ## Cosa ha evitato sui siti veri
 
