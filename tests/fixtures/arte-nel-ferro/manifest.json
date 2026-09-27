@@ -1,0 +1,49 @@
+{
+ "risposte": {
+  "https://www.lartenelferro.it/robots.txt": {
+   "stato": 200,
+   "url_finale": "https://www.lartenelferro.it/robots.txt",
+   "content_type": "text/plain; charset=UTF-8",
+   "file": "pagine/robots.txt.txt"
+  },
+  "https://www.lartenelferro.it": {
+   "stato": 200,
+   "url_finale": "https://www.lartenelferro.it/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/home.html"
+  },
+  "https://www.lartenelferro.it/sitemap_index.xml": {
+   "stato": 200,
+   "url_finale": "https://www.lartenelferro.it/sitemap_index.xml",
+   "content_type": "text/xml; charset=UTF-8",
+   "file": "pagine/sitemap_index.xml.xml"
+  },
+  "https://www.lartenelferro.it/page-sitemap.xml": {
+   "stato": 200,
+   "url_finale": "https://www.lartenelferro.it/page-sitemap.xml",
+   "content_type": "text/xml; charset=UTF-8",
+   "file": "pagine/page-sitemap.xml.xml"
+  },
+  "https://www.lartenelferro.it/contatti/": {
+   "stato": 200,
+   "url_finale": "https://www.lartenelferro.it/contatti/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/contatti.html"
+  },
+  "https://www.lartenelferro.it/chi-siamo/": {
+   "stato": 200,
+   "url_finale": "https://www.lartenelferro.it/chi-siamo/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/chi-siamo.html"
+  },
+  "https://www.lartenelferro.it/prodotti/": {
+   "stato": 200,
+   "url_finale": "https://www.lartenelferro.it/prodotti/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/prodotti.html"
+  }
+ },
+ "sito": "https://www.lartenelferro.it",
+ "mestiere": "fabbro",
+ "scaricato_il": "2026-09-27T17:22:41+00:00"
+}

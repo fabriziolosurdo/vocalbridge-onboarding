@@ -1,0 +1,217 @@
+{
+ "risposte": {
+  "https://www.brescianifabbro.it/robots.txt": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/robots.txt",
+   "content_type": "text/plain; charset=utf-8",
+   "file": "pagine/robots.txt.txt"
+  },
+  "https://www.brescianifabbro.it": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/home.html"
+  },
+  "https://www.brescianifabbro.it/sitemap_index.xml": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/sitemap_index.xml",
+   "content_type": "text/xml; charset=UTF-8",
+   "file": "pagine/sitemap_index.xml.xml"
+  },
+  "https://www.brescianifabbro.it/page-sitemap.xml": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/page-sitemap.xml",
+   "content_type": "text/xml; charset=UTF-8",
+   "file": "pagine/page-sitemap.xml.xml"
+  },
+  "https://www.brescianifabbro.it/fw-portfolio-sitemap.xml": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/fw-portfolio-sitemap.xml",
+   "content_type": "text/xml; charset=UTF-8",
+   "file": "pagine/fw-portfolio-sitemap.xml.xml"
+  },
+  "https://www.brescianifabbro.it/post-sitemap.xml": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/post-sitemap.xml",
+   "content_type": "text/xml; charset=UTF-8",
+   "file": "pagine/post-sitemap.xml.xml"
+  },
+  "https://www.brescianifabbro.it/contatti/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/contatti/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/contatti.html"
+  },
+  "https://www.brescianifabbro.it/servizi-al-condominio-milano-bresciani-fabbro/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/servizi-al-condominio-milano-bresciani-fabbro/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi-al-condominio-milano-bresciani-fabbro.html"
+  },
+  "https://www.brescianifabbro.it/bresciani-fabbro-e-azienda-certificata-a-milano-uni-en-1090-per-carpenteria-metallica/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/bresciani-fabbro-e-azienda-certificata-a-milano-uni-en-1090-per-carpenteria-metallica/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/bresciani-fabbro-e-azienda-certificata-a-milano-uni-en-1090-per-carpenteria-meta.html"
+  },
+  "https://www.brescianifabbro.it/come-ottenere-i-bonus-casa-e-sicurezza-a-milano-per-infissi-e-lavori-in-ferro/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/come-ottenere-i-bonus-casa-e-sicurezza-a-milano-per-infissi-e-lavori-in-ferro/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/come-ottenere-i-bonus-casa-e-sicurezza-a-milano-per-infissi-e-lavori-in-ferro.html"
+  },
+  "https://www.brescianifabbro.it/progetti/lavori-speciali/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/progetti/lavori-speciali/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/progetti__lavori-speciali.html"
+  },
+  "https://www.brescianifabbro.it/progetti/lavori-condominiali/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/progetti/lavori-condominiali/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/progetti__lavori-condominiali.html"
+  },
+  "https://www.brescianifabbro.it/realizzazioni/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/realizzazioni/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/realizzazioni.html"
+  },
+  "https://www.brescianifabbro.it/realizzazioni/taglio-laser/": {
+   "stato": 404,
+   "url_finale": "https://www.brescianifabbro.it/realizzazioni/taglio-laser/",
+   "content_type": "text/html; charset=UTF-8"
+  },
+  "https://www.brescianifabbro.it/realizzazioni/altri-materiali/": {
+   "stato": 404,
+   "url_finale": "https://www.brescianifabbro.it/realizzazioni/altri-materiali/",
+   "content_type": "text/html; charset=UTF-8"
+  },
+  "https://www.brescianifabbro.it/realizzazioni/lavorazione-acciaio/": {
+   "stato": 404,
+   "url_finale": "https://www.brescianifabbro.it/realizzazioni/lavorazione-acciaio/",
+   "content_type": "text/html; charset=UTF-8"
+  },
+  "https://www.brescianifabbro.it/realizzazioni/trattameti-particolari/": {
+   "stato": 404,
+   "url_finale": "https://www.brescianifabbro.it/realizzazioni/trattameti-particolari/",
+   "content_type": "text/html; charset=UTF-8"
+  },
+  "https://www.brescianifabbro.it/realizzazioni/lavorazione-acciaio-inox/": {
+   "stato": 404,
+   "url_finale": "https://www.brescianifabbro.it/realizzazioni/lavorazione-acciaio-inox/",
+   "content_type": "text/html; charset=UTF-8"
+  },
+  "https://www.brescianifabbro.it/realizzazioni/verniciature-trattamenti/": {
+   "stato": 404,
+   "url_finale": "https://www.brescianifabbro.it/realizzazioni/verniciature-trattamenti/",
+   "content_type": "text/html; charset=UTF-8"
+  },
+  "https://www.brescianifabbro.it/fabbro-a-milano-con-camioncini-elettrici-i-nostri-mezzi-per-interventi-in-area-c/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/fabbro-a-milano-con-camioncini-elettrici-i-nostri-mezzi-per-interventi-in-area-c/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/fabbro-a-milano-con-camioncini-elettrici-i-nostri-mezzi-per-interventi-in-area-c.html"
+  },
+  "https://www.brescianifabbro.it/bresciani-giuseppe-srl/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/bresciani-giuseppe-srl/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/bresciani-giuseppe-srl.html"
+  },
+  "https://www.brescianifabbro.it/millionaire-parla-di-bresciani-fabbro-intervista-eliana-bresciani/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/millionaire-parla-di-bresciani-fabbro-intervista-eliana-bresciani/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/millionaire-parla-di-bresciani-fabbro-intervista-eliana-bresciani.html"
+  },
+  "https://www.brescianifabbro.it/bresciani-fabbro-alla-milano-design-week-2026-i-nostri-tre-progetti/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/bresciani-fabbro-alla-milano-design-week-2026-i-nostri-tre-progetti/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/bresciani-fabbro-alla-milano-design-week-2026-i-nostri-tre-progetti.html"
+  },
+  "https://www.brescianifabbro.it/certificazione-prevenzione-incendi-come-adeguare-porte-rei-e-garage-a-milano/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/certificazione-prevenzione-incendi-come-adeguare-porte-rei-e-garage-a-milano/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/certificazione-prevenzione-incendi-come-adeguare-porte-rei-e-garage-a-milano.html"
+  },
+  "https://www.brescianifabbro.it/arredi-in-ferro-per-locali-a-milano-il-nostro-progetto-per-the-botanical-club/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/arredi-in-ferro-per-locali-a-milano-il-nostro-progetto-per-the-botanical-club/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/arredi-in-ferro-per-locali-a-milano-il-nostro-progetto-per-the-botanical-club.html"
+  },
+  "https://www.brescianifabbro.it/progetti/verande/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/progetti/verande/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/progetti__verande.html"
+  },
+  "https://www.brescianifabbro.it/progetti/vetrine/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/progetti/vetrine/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/progetti__vetrine.html"
+  },
+  "https://www.brescianifabbro.it/progetti/pensiline/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/progetti/pensiline/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/progetti__pensiline.html"
+  },
+  "https://www.brescianifabbro.it/progetti/barbecue-2/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/progetti/barbecue-2/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/progetti__barbecue-2.html"
+  },
+  "https://www.brescianifabbro.it/progetti/arredo-urbano/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/progetti/arredo-urbano/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/progetti__arredo-urbano.html"
+  },
+  "https://www.brescianifabbro.it/progetti/interni-e-negozi/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/progetti/interni-e-negozi/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/progetti__interni-e-negozi.html"
+  },
+  "https://www.brescianifabbro.it/progetti/isole-ecologiche/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/progetti/isole-ecologiche/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/progetti__isole-ecologiche.html"
+  },
+  "https://www.brescianifabbro.it/progetti/scale-e-soppalchi/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/progetti/scale-e-soppalchi/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/progetti__scale-e-soppalchi.html"
+  },
+  "https://www.brescianifabbro.it/progetti/portoni-e-serramenti/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/progetti/portoni-e-serramenti/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/progetti__portoni-e-serramenti.html"
+  },
+  "https://www.brescianifabbro.it/progetti/cancelli-e-recinzioni/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/progetti/cancelli-e-recinzioni/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/progetti__cancelli-e-recinzioni.html"
+  },
+  "https://www.brescianifabbro.it/progetti/corrimano-e-parapetti/": {
+   "stato": 200,
+   "url_finale": "https://www.brescianifabbro.it/progetti/corrimano-e-parapetti/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/progetti__corrimano-e-parapetti.html"
+  }
+ },
+ "sito": "https://www.brescianifabbro.it",
+ "mestiere": "fabbro",
+ "scaricato_il": "2026-09-27T17:25:30+00:00"
+}

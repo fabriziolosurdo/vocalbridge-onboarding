@@ -1,0 +1,79 @@
+{
+ "risposte": {
+  "https://fabbromilano.it/robots.txt": {
+   "stato": 200,
+   "url_finale": "https://fabbromilano.it/robots.txt",
+   "content_type": "text/plain",
+   "file": "pagine/robots.txt.txt"
+  },
+  "https://fabbromilano.it": {
+   "stato": 200,
+   "url_finale": "https://fabbromilano.it/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/home.html"
+  },
+  "https://fabbromilano.it/sitemap_index.xml": {
+   "stato": 200,
+   "url_finale": "https://fabbromilano.it/sitemap_index.xml",
+   "content_type": "text/xml; charset=UTF-8",
+   "file": "pagine/sitemap_index.xml.xml"
+  },
+  "https://fabbromilano.it/author-sitemap.xml": {
+   "stato": 200,
+   "url_finale": "https://fabbromilano.it/author-sitemap.xml",
+   "content_type": "text/xml; charset=UTF-8",
+   "file": "pagine/author-sitemap.xml.xml"
+  },
+  "https://fabbromilano.it/category-sitemap.xml": {
+   "stato": 200,
+   "url_finale": "https://fabbromilano.it/category-sitemap.xml",
+   "content_type": "text/xml; charset=UTF-8",
+   "file": "pagine/category-sitemap.xml.xml"
+  },
+  "https://fabbromilano.it/post-sitemap.xml": {
+   "stato": 200,
+   "url_finale": "https://fabbromilano.it/post-sitemap.xml",
+   "content_type": "text/xml; charset=UTF-8",
+   "file": "pagine/post-sitemap.xml.xml"
+  },
+  "https://fabbromilano.it/contatti/": {
+   "stato": 200,
+   "url_finale": "https://fabbromilano.it/contatti/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/contatti.html"
+  },
+  "https://fabbromilano.it/chi-siamo/": {
+   "stato": 200,
+   "url_finale": "https://fabbromilano.it/chi-siamo/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/chi-siamo.html"
+  },
+  "https://fabbromilano.it/servizi/": {
+   "stato": 200,
+   "url_finale": "https://fabbromilano.it/servizi/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi.html"
+  },
+  "https://fabbromilano.it/2025/11/06/%e2%8f%b1%ef%b8%8f-tempi-di-attesa-fabbro-milano-pronto-intervento/": {
+   "stato": 200,
+   "url_finale": "https://fabbromilano.it/2025/11/06/%E2%8F%B1%EF%B8%8F-tempi-di-attesa-fabbro-milano-pronto-intervento/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/2025__11__06___e2_8f_b1_ef_b8_8f-tempi-di-attesa-fabbro-milano-pronto-intervento.html"
+  },
+  "https://fabbromilano.it/blog/": {
+   "stato": 200,
+   "url_finale": "https://fabbromilano.it/blog/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/blog.html"
+  },
+  "https://fabbromilano.it/serrande-milano/": {
+   "stato": 200,
+   "url_finale": "https://fabbromilano.it/serrande-milano/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/serrande-milano.html"
+  }
+ },
+ "sito": "https://fabbromilano.it",
+ "mestiere": "fabbro",
+ "scaricato_il": "2026-09-27T17:23:15+00:00"
+}

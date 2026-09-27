@@ -1,0 +1,47 @@
+{
+  "sito": "https://cdscasasicura.com",
+  "compilato_a_mano_il": "2026-09-27",
+  "telefono_principale": {
+    "valore": "+393331425907",
+    "testo": "3331425907",
+    "pagine": [
+      "https://cdscasasicura.com/contatti",
+      "https://cdscasasicura.com/"
+    ]
+  },
+  "indirizzo": {
+    "via": "Via Morona, 55",
+    "cap": "20090",
+    "comune": "Trezzano sul Naviglio",
+    "provincia": "MI",
+    "testo": "Via Morona, 55, 20090 Trezzano sul Naviglio MI, Italia",
+    "pagina": "https://cdscasasicura.com/contatti"
+  },
+  "orari": null,
+  "orari_nota": "nessun orario scritto",
+  "urgenza_h24": null,
+  "urgenza_nota": "nessuna dichiarazione di reperibilità 24 ore",
+  "servizi": [
+    "Inferriate e grate di sicurezza",
+    "Porte blindate Dierre",
+    "Serratura cilindro europeo",
+    "Serramenti e infissi",
+    "Tapparelle e zanzariere",
+    "Basculanti per box",
+    "Basculanti salvaspazio",
+    "Porte box a libro",
+    "Serrande per box e attività",
+    "Porte per cantina",
+    "Posa tapparelle",
+    "Installazione Porte Blindate per cantine",
+    "Serrande motorizzate",
+    "Cancelli",
+    "Inferriate",
+    "Serramenti",
+    "Zanzariere"
+  ],
+  "servizi_pagina": "menu SERVIZI e home",
+  "ragione_sociale": "CDS Casa della Sicurezza",
+  "partita_iva": "05245490965",
+  "note": "la pagina contatti contiene un indirizzo segnaposto del tema (\"Mainstreet 1234 12346 Anytown, UK\") e un cellulare a 9 cifre (331425907)"
+}
