@@ -1,0 +1,7 @@
+User-agent: Amazonbot
+Crawl-delay: 120
+
+User-agent: *
+Crawl-delay: 20
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

@@ -1,0 +1,51 @@
+{
+  "sito": "https://coscoservice.it",
+  "compilato_a_mano_il": "2026-09-27",
+  "telefono_principale": {
+    "valore": "+393792059293",
+    "testo": "379 205 9293",
+    "pagine": [
+      "https://coscoservice.it/contattaci/",
+      "https://coscoservice.it/"
+    ]
+  },
+  "indirizzo": {
+    "via": "Corso Lodi 32",
+    "cap": "20135",
+    "comune": "Milano",
+    "provincia": "MI",
+    "testo": "SEDI MILANO Corso Lodi 32 (CAP 20135 solo nel JSON-LD)",
+    "pagina": "https://coscoservice.it/contattaci/"
+  },
+  "orari": null,
+  "orari_nota": "nel testo visibile solo \"365 giorni l'anno, 24 ore su 24\" (nessun orario per giorno); il JSON-LD dichiara tutti i giorni 00:00-24:00",
+  "urgenza_h24": true,
+  "urgenza_testo": "Reperibile 24 ore su 24, 7 giorni su 7.",
+  "urgenza_pagina": "https://coscoservice.it/contattaci/",
+  "servizi": [
+    "Apertura Porte Bloccate",
+    "Apertura Serrature Bloccate",
+    "Apertura Casseforti Bloccate",
+    "Riparazioni Tapparelle",
+    "Riparazione e Sostituzione Serrature",
+    "Riparazione Tapparelle",
+    "Apertura porte e porte blindate",
+    "Apertura Casseforti",
+    "Sostituzione Serrature",
+    "Riparazioni Porte Blindate",
+    "Riparazioni Basculanti",
+    "Installazione Serrande",
+    "Installazione Tapparelle",
+    "Installazione Serrature",
+    "Motorizzazione Serrande",
+    "Motorizzazione Tapparelle",
+    "Apertura Tapparelle Bloccate",
+    "Riparazioni Serranda Box",
+    "serrande",
+    "basculanti",
+    "tapparelle"
+  ],
+  "servizi_pagina": "menu Servizi e piè di pagina di tutte le pagine; pagine /servizi/...",
+  "ragione_sociale": "Cosco Service",
+  "partita_iva": "11167660015"
+}

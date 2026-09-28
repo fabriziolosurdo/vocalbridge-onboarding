@@ -1,0 +1,53 @@
+{
+  "sito": "https://www.brescianifabbro.it",
+  "compilato_a_mano_il": "2026-09-27",
+  "telefono_principale": {
+    "valore": "+390227209053",
+    "testo": "02 2720 9053 / 02/27209053",
+    "pagine": [
+      "https://www.brescianifabbro.it/contatti/",
+      "https://www.brescianifabbro.it/"
+    ]
+  },
+  "indirizzo": {
+    "via": "via San Mamete 38/40",
+    "cap": null,
+    "comune": "Milano",
+    "provincia": "MI",
+    "testo": "via San Mamete 38/40, Milano (in contatti anche \"Via S. Mamete 40 Milano\")",
+    "pagina": "https://www.brescianifabbro.it/contatti/"
+  },
+  "orari": null,
+  "orari_nota": "nessun orario scritto",
+  "urgenza_h24": true,
+  "urgenza_testo": "Progettazione | Produzione | Manutenzione | Emergenza H24",
+  "urgenza_pagina": "https://www.brescianifabbro.it/contatti/",
+  "servizi": [
+    "Cancelli e recinzioni",
+    "Vetrine",
+    "Inferriate e sicurezza",
+    "Scale e soppalchi",
+    "Pensiline",
+    "Portoni e serramenti",
+    "Interni",
+    "Verande & Dehor",
+    "Arte e Design",
+    "Corrimano e parapetti",
+    "Arredo urbano",
+    "Barbecue",
+    "Lavori Condominiali",
+    "Isole Ecologiche",
+    "Servizi al condominio",
+    "cancelli",
+    "inferriate",
+    "recinzioni",
+    "porte",
+    "portoni",
+    "scale",
+    "tettoie",
+    "linee vita"
+  ],
+  "servizi_pagina": "menu Realizzazioni e riquadro Chi siamo (tutte le pagine)",
+  "ragione_sociale": "Bresciani Giuseppe Fabbro Srl",
+  "partita_iva": "10883360157"
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+  
+Sitemap: https://www.lartenelferro.it/sitemap_index.xml

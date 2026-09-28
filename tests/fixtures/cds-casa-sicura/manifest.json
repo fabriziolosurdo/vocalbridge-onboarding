@@ -1,0 +1,204 @@
+{
+ "risposte": {
+  "https://cdscasasicura.com/robots.txt": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/robots.txt",
+   "content_type": "text/plain",
+   "file": "pagine/robots.txt.txt"
+  },
+  "https://cdscasasicura.com": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/home.html"
+  },
+  "https://cdscasasicura.com/sitemap.xml": {
+   "stato": 404,
+   "url_finale": "https://cdscasasicura.com/sitemap.xml",
+   "content_type": "text/html; charset=utf-8"
+  },
+  "https://cdscasasicura.com/contatti": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/contatti",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/contatti.html"
+  },
+  "https://cdscasasicura.com/contatti/cookie-policy": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/contatti/cookie-policy",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/contatti__cookie-policy.html"
+  },
+  "https://cdscasasicura.com/contatti/privacy-policy": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/contatti/privacy-policy",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/contatti__privacy-policy.html"
+  },
+  "https://cdscasasicura.com/servizi": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/servizi",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/servizi.html"
+  },
+  "https://cdscasasicura.com/lazienda-cds-casa-della-sicurezza-di-trezzano-sul-naviglio": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/lazienda-cds-casa-della-sicurezza-di-trezzano-sul-naviglio",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/lazienda-cds-casa-della-sicurezza-di-trezzano-sul-naviglio.html"
+  },
+  "https://cdscasasicura.com/?Itemid=170": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/installazione-tapparelle-zanzariere-milano",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/home_q9cbcd4.html"
+  },
+  "https://cdscasasicura.com/?Itemid=173": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/installazione-inferriate-milano",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/home_qd3e3fb.html"
+  },
+  "https://cdscasasicura.com/?Itemid=175": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/installazione-porte-blindate-milano",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/home_q12fe8f.html"
+  },
+  "https://cdscasasicura.com/?Itemid=177": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/sostituzione-serratura-porta-blindata-milano",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/home_q91033a.html"
+  },
+  "https://cdscasasicura.com/?Itemid=179": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/installazione-serramenti-infissi-milano",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/home_qe130da.html"
+  },
+  "https://cdscasasicura.com/?Itemid=181": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/basculanti-per-box-milano",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/home_q424427.html"
+  },
+  "https://cdscasasicura.com/?Itemid=183": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/porte-box-a-battente",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/home_q5496f6.html"
+  },
+  "https://cdscasasicura.com/?Itemid=186": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/serrande-avvolgibili-box-garage-milano",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/home_qf0ce08.html"
+  },
+  "https://cdscasasicura.com/?Itemid=188": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/porte-per-cantina",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/home_q18fd26.html"
+  },
+  "https://cdscasasicura.com/?Itemid=189": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/basculanti-salvaspazio",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/home_qc4274d.html"
+  },
+  "https://cdscasasicura.com/news": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/news",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/news.html"
+  },
+  "https://cdscasasicura.com/gallery": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/gallery",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/gallery.html"
+  },
+  "https://cdscasasicura.com/porte-per-cantina": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/porte-per-cantina",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/porte-per-cantina.html"
+  },
+  "https://cdscasasicura.com/detrazioni-fiscali": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/detrazioni-fiscali",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/detrazioni-fiscali.html"
+  },
+  "https://cdscasasicura.com/porte-box-a-battente": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/porte-box-a-battente",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/porte-box-a-battente.html"
+  },
+  "https://cdscasasicura.com/basculanti-salvaspazio": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/basculanti-salvaspazio",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/basculanti-salvaspazio.html"
+  },
+  "https://cdscasasicura.com/basculanti-per-box-milano": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/basculanti-per-box-milano",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/basculanti-per-box-milano.html"
+  },
+  "https://cdscasasicura.com/installazione-inferriate-milano": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/installazione-inferriate-milano",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/installazione-inferriate-milano.html"
+  },
+  "https://cdscasasicura.com/installazione-porte-blindate-milano": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/installazione-porte-blindate-milano",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/installazione-porte-blindate-milano.html"
+  },
+  "https://cdscasasicura.com/serrande-avvolgibili-box-garage-milano": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/serrande-avvolgibili-box-garage-milano",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/serrande-avvolgibili-box-garage-milano.html"
+  },
+  "https://cdscasasicura.com/installazione-serramenti-infissi-milano": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/installazione-serramenti-infissi-milano",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/installazione-serramenti-infissi-milano.html"
+  },
+  "https://cdscasasicura.com/installazione-tapparelle-zanzariere-milano": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/installazione-tapparelle-zanzariere-milano",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/installazione-tapparelle-zanzariere-milano.html"
+  },
+  "https://cdscasasicura.com/sostituzione-serratura-porta-blindata-milano": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/sostituzione-serratura-porta-blindata-milano",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/sostituzione-serratura-porta-blindata-milano.html"
+  },
+  "https://cdscasasicura.com/detrazioni-fiscali/bonus-fiscale-sicurezza": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/detrazioni-fiscali/bonus-fiscale-sicurezza",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/detrazioni-fiscali__bonus-fiscale-sicurezza.html"
+  },
+  "https://cdscasasicura.com/detrazioni-fiscali/detrazione-sostituzione-porta-garage-box-2021": {
+   "stato": 200,
+   "url_finale": "https://cdscasasicura.com/detrazioni-fiscali/detrazione-sostituzione-porta-garage-box-2021",
+   "content_type": "text/html; charset=utf-8",
+   "file": "pagine/detrazioni-fiscali__detrazione-sostituzione-porta-garage-box-2021.html"
+  }
+ },
+ "sito": "https://cdscasasicura.com",
+ "mestiere": "fabbro",
+ "scaricato_il": "2026-09-27T17:24:48+00:00"
+}

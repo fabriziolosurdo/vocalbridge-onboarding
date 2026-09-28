@@ -1,0 +1,52 @@
+{
+  "sito": "https://fabbromilano.it",
+  "compilato_a_mano_il": "2026-09-27",
+  "telefono_principale": {
+    "valore": "+393492866321",
+    "testo": "3492866321",
+    "pagine": [
+      "https://fabbromilano.it/contatti/",
+      "https://fabbromilano.it/"
+    ]
+  },
+  "indirizzo": {
+    "via": "Corso Magenta, 56",
+    "cap": "20123",
+    "comune": "Milano",
+    "provincia": "MI",
+    "testo": "Corso Magenta, 56 – Milano / 20123 milano corso magenta 56",
+    "pagina": "https://fabbromilano.it/contatti/"
+  },
+  "orari": null,
+  "orari_nota": "\"Orari: Dalle 8:00 alle 17:00 — Aperti 24 h per emergenze\" senza giorni della settimana; il JSON-LD dice Mo-Su 00:01-23:59",
+  "urgenza_h24": true,
+  "urgenza_testo": "Siamo sempre a tua disposizione — 24 ore su 24, 7 giorni su 7",
+  "urgenza_pagina": "https://fabbromilano.it/contatti/",
+  "servizi": [
+    "Apertura porte",
+    "Riparazione serrature",
+    "Installazione porte blindate",
+    "Manutenzione casseforti",
+    "Riparazione e Sostituzione Serrature",
+    "Installazione e Manutenzione di Sistemi di Sicurezza",
+    "Trasformazione Serratura Europea",
+    "Apertura porte bloccate",
+    "Sostituzione serrature europee e cilindri di sicurezza",
+    "Installazione di porte blindate e defender",
+    "Riparazione Serrande",
+    "Assistenza e Automazione Serrande",
+    "Motorizzazione Serranda",
+    "Sostituzione Molle",
+    "Sblocco Serranda",
+    "Sblocco serrande negozi e magazzini",
+    "Motorizzazione saracinesche manuali",
+    "Cilindri di altissima sicurezza",
+    "Serrature con apertura smartphone",
+    "casseforti",
+    "cancelli"
+  ],
+  "servizi_pagina": "home, /contatti/, /serrande-milano/ (la pagina /servizi/ descrive un'altra attività: assistenza Sanitrit)",
+  "ragione_sociale": "Assistenza 24 h srl",
+  "partita_iva": "13556570961",
+  "note": "il JSON-LD contiene un indirizzo diverso (Peschiera Borromeo, CAP \"0068\") e un'altra email; la pagina contatti contiene segnaposto non compilati (\"Via [Inserisci indirizzo...]\", \"02 [numero di telefono]\")"
+}

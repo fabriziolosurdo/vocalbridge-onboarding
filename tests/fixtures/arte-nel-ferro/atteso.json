@@ -1,0 +1,41 @@
+{
+  "sito": "https://www.lartenelferro.it",
+  "compilato_a_mano_il": "2026-09-27",
+  "telefono_principale": {
+    "valore": "+390289761851",
+    "testo": "02 897 618 51",
+    "pagine": [
+      "https://www.lartenelferro.it/contatti/",
+      "https://www.lartenelferro.it/"
+    ]
+  },
+  "indirizzo": {
+    "via": "Via Edmondo de Amicis, 7",
+    "cap": "20020",
+    "comune": "Solaro",
+    "provincia": "MI",
+    "testo": "Via Edmondo de Amicis, 7 / 20020 • Solaro MI",
+    "pagina": "https://www.lartenelferro.it/contatti/"
+  },
+  "orari": null,
+  "orari_nota": "nessun orario scritto nel sito",
+  "urgenza_h24": null,
+  "urgenza_nota": "il sito non dichiara pronto intervento né reperibilità 24 ore",
+  "servizi": [
+    "Grate e inferriate",
+    "Soppalchi",
+    "Scale e ringhiere",
+    "Arredo",
+    "Cabine insonorizzanti",
+    "Strutture in ferro",
+    "Basculanti",
+    "Cancelli e recinzioni",
+    "Opere di carpenteria",
+    "Aree esterne",
+    "Progettazione",
+    "Costruzione"
+  ],
+  "servizi_pagina": "https://www.lartenelferro.it/ (blocchi Prodotti/Servizi) e https://www.lartenelferro.it/prodotti/",
+  "ragione_sociale": "L'arte nel ferro Srls",
+  "partita_iva": "08864490969"
+}

@@ -1,0 +1,199 @@
+{
+ "risposte": {
+  "https://coscoservice.it/robots.txt": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/robots.txt",
+   "content_type": "text/plain",
+   "file": "pagine/robots.txt.txt"
+  },
+  "https://coscoservice.it": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/",
+   "content_type": "text/html",
+   "file": "pagine/home.html"
+  },
+  "https://coscoservice.it/sitemap.xml": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/sitemap_index.xml",
+   "content_type": "text/xml;charset=UTF-8",
+   "file": "pagine/sitemap.xml.xml"
+  },
+  "https://coscoservice.it/page-sitemap.xml": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/page-sitemap.xml",
+   "content_type": "text/xml; charset=UTF-8",
+   "file": "pagine/page-sitemap.xml.xml"
+  },
+  "https://coscoservice.it/local-sitemap.xml": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/local-sitemap.xml",
+   "content_type": "text/xml; charset=UTF-8",
+   "file": "pagine/local-sitemap.xml.xml"
+  },
+  "https://coscoservice.it/post-sitemap1.xml": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/post-sitemap1.xml",
+   "content_type": "text/xml;charset=UTF-8",
+   "file": "pagine/post-sitemap1.xml.xml"
+  },
+  "https://coscoservice.it/post-sitemap2.xml": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/post-sitemap2.xml",
+   "content_type": "text/xml; charset=UTF-8",
+   "file": "pagine/post-sitemap2.xml.xml"
+  },
+  "https://coscoservice.it/post-sitemap3.xml": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/post-sitemap3.xml",
+   "content_type": "text/xml; charset=UTF-8",
+   "file": "pagine/post-sitemap3.xml.xml"
+  },
+  "https://coscoservice.it/contattaci/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/contattaci/",
+   "content_type": "text/html",
+   "file": "pagine/contattaci.html"
+  },
+  "https://coscoservice.it/servizi-fabbro/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi-fabbro/",
+   "content_type": "text/html",
+   "file": "pagine/servizi-fabbro.html"
+  },
+  "https://coscoservice.it/servizi/installazione-serrande-monza/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/installazione-serrande-monza/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__installazione-serrande-monza.html"
+  },
+  "https://coscoservice.it/servizi/riparazioni-basculanti-monza/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/riparazioni-basculanti-monza/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__riparazioni-basculanti-monza.html"
+  },
+  "https://coscoservice.it/servizi/riparazioni-tapparelle-monza/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/riparazioni-tapparelle-monza/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__riparazioni-tapparelle-monza.html"
+  },
+  "https://coscoservice.it/servizi/apertura-porte-bloccate-monza/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/apertura-porte-bloccate-monza/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__apertura-porte-bloccate-monza.html"
+  },
+  "https://coscoservice.it/servizi/installazione-serrande-milano/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/installazione-serrande-milano/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__installazione-serrande-milano.html"
+  },
+  "https://coscoservice.it/servizi/installazione-serrature-monza/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/installazione-serrature-monza/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__installazione-serrature-monza.html"
+  },
+  "https://coscoservice.it/servizi/motorizzazione-serrande-monza/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/motorizzazione-serrande-monza/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__motorizzazione-serrande-monza.html"
+  },
+  "https://coscoservice.it/servizi/riparazioni-basculanti-milano/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/riparazioni-basculanti-milano/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__riparazioni-basculanti-milano.html"
+  },
+  "https://coscoservice.it/servizi/riparazioni-tapparelle-milano/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/riparazioni-tapparelle-milano/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__riparazioni-tapparelle-milano.html"
+  },
+  "https://coscoservice.it/servizi/apertura-porte-bloccate-milano/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/apertura-porte-bloccate-milano/",
+   "content_type": "text/html",
+   "file": "pagine/servizi__apertura-porte-bloccate-milano.html"
+  },
+  "https://coscoservice.it/servizi/installazione-serrature-milano/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/installazione-serrature-milano/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__installazione-serrature-milano.html"
+  },
+  "https://coscoservice.it/servizi/installazione-tapparelle-monza/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/installazione-tapparelle-monza/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__installazione-tapparelle-monza.html"
+  },
+  "https://coscoservice.it/servizi/riparazioni-serranda-box-monza/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/riparazioni-serranda-box-monza/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__riparazioni-serranda-box-monza.html"
+  },
+  "https://coscoservice.it/servizi/installazione-tapparelle-milano/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/installazione-tapparelle-milano/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__installazione-tapparelle-milano.html"
+  },
+  "https://coscoservice.it/servizi/motorizzazione-tapparelle-monza/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/motorizzazione-tapparelle-monza/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__motorizzazione-tapparelle-monza.html"
+  },
+  "https://coscoservice.it/servizi/apertura-serrature-bloccate-monza/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/apertura-serrature-bloccate-monza/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__apertura-serrature-bloccate-monza.html"
+  },
+  "https://coscoservice.it/servizi/apertura-casseforti-bloccate-monza/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/apertura-casseforti-bloccate-monza/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__apertura-casseforti-bloccate-monza.html"
+  },
+  "https://coscoservice.it/servizi/apertura-serrature-bloccate-milano/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/apertura-serrature-bloccate-milano/",
+   "content_type": "text/html",
+   "file": "pagine/servizi__apertura-serrature-bloccate-milano.html"
+  },
+  "https://coscoservice.it/servizi/apertura-tapparelle-bloccate-monza/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/apertura-tapparelle-bloccate-monza/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__apertura-tapparelle-bloccate-monza.html"
+  },
+  "https://coscoservice.it/servizi/apertura-casseforti-bloccate-milano/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/apertura-casseforti-bloccate-milano/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__apertura-casseforti-bloccate-milano.html"
+  },
+  "https://coscoservice.it/servizi/riparazione-e-sostituzione-serrature-monza/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/riparazione-e-sostituzione-serrature-monza/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__riparazione-e-sostituzione-serrature-monza.html"
+  },
+  "https://coscoservice.it/servizi/riparazione-e-sostituzione-serrature-milano/": {
+   "stato": 200,
+   "url_finale": "https://coscoservice.it/servizi/riparazione-e-sostituzione-serrature-milano/",
+   "content_type": "text/html; charset=UTF-8",
+   "file": "pagine/servizi__riparazione-e-sostituzione-serrature-milano.html"
+  }
+ },
+ "sito": "https://coscoservice.it",
+ "mestiere": "fabbro",
+ "scaricato_il": "2026-09-27T17:22:52+00:00"
+}
